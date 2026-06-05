@@ -23,7 +23,8 @@ I'm an Mobile Developer | UI UX Enthusiast
 
 <p >
 <a href="https://github.com/rifqinugrahaaa">
-  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmadnoorikhsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmadnoorikhsan&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqinugrahaaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
