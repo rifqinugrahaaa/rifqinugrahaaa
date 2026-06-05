@@ -19,7 +19,7 @@ I'm an Mobile Developer | UI UX Enthusiast
 
 
 ##### My Github stats
-![Rifqi Nugraha](https://github-readme-stats.vercel.app/api?username=rifqinugrahaaa&show_icons=true&theme=algolia)
+![Rifqi Nugraha GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqinugrahaaa&hide=contribs,prs)
 
 <p >
 <a href="https://github.com/rifqinugrahaaa">
