@@ -37,10 +37,4 @@ I'm an Mobile Developer | UI UX Enthusiast
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/snake-dark.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/rifqinugrahaaa/rifqinugrahaaa/output/snake-dark.svg" />
-</picture>
 
-###
